@@ -1,0 +1,311 @@
+Customer,Program,City,County,Region,Allocation (kW),Jobs Committed,Date
+3M Company,Expansion Power,Tonawanda,Erie,Western New York,500,*,10/01/2023
+3M Company,Expansion Power,Tonawanda,Erie,Western New York,1000,*,10/01/2023
+3M Company,Expansion Power,Tonawanda,Erie,Western New York,150,*,10/01/2023
+3M Company,Replacement Power,Tonawanda,Erie,Western New York,350,365,10/01/2023
+3M Company,Expansion Power,Tonawanda,Erie,Western New York,5460,*,10/01/2023
+ADM Milling Company,Expansion Power,Buffalo,Erie,Western New York,1500,*,10/01/2023
+ADM Milling Company,Replacement Power,Buffalo,Erie,Western New York,1900,84,10/01/2023
+"Advance 2000, Inc.",Replacement Power,Amherst,Erie,Western New York,370,*,10/01/2023
+"Advance 2000, Inc.",Replacement Power,Amherst,Erie,Western New York,120,94,10/01/2023
+"Air Products and Chemicals, Inc.",Replacement Power,Medina,Orleans,Finger Lakes,300,5,10/01/2023
+"Air Products and Chemicals, Inc.",Preservation Power,Massena,St. Lawrence,North Country,84000,90,10/01/2023
+"Air Products and Chemicals, Inc.",Preservation Power,Massena,St. Lawrence,North Country,10000,*,10/01/2023
+Alcoa (West),Preservation Power,Massena,St. Lawrence,North Country,240000,450,10/01/2023
+Amazon.com Services LLC,Replacement Power,Niagara Falls,Niagara,Western New York,10660,"1,000",10/01/2023
+"Amcor Rigid Packaging USA, LLC",Expansion Power,Cheektowaga,Erie,Western New York,1750,24,10/01/2023
+"Americold Real Estate, L.P.",Expansion Power,Dunkirk,Chautauqua,Western New York,830,60,10/01/2023
+"API Heat Transfer, Inc.",Replacement Power,Buffalo,Erie,Western New York,250,199,10/01/2023
+"API Heat Transfer, Inc.",Replacement Power,Buffalo,Erie,Western New York,100,*,10/01/2023
+Arconic Inc.,Preservation Power,Massena,St. Lawrence,North Country,5000,145,10/01/2023
+Ashland Advanced Materials LLC,Expansion Power,Niagara Falls,Niagara,Western New York,2050,44,10/01/2023
+Ashland Advanced Materials LLC,Expansion Power,Niagara Falls,Niagara,Western New York,340,*,10/01/2023
+Ashton Potter (USA) LTD,Replacement Power,Williamsville,Erie,Western New York,450,50,10/01/2023
+Ashton Potter (USA) LTD,Replacement Power,Williamsville,Erie,Western New York,340,*,10/01/2023
+ATI Allvac,Expansion Power,Lockport,Niagara,Western New York,200,*,10/01/2023
+ATI Allvac,Expansion Power,Lockport,Niagara,Western New York,1000,*,10/01/2023
+ATI Allvac,Replacement Power,Lockport,Niagara,Western New York,300,71,10/01/2023
+"Aurubis Buffalo, Inc.",Replacement Power,Buffalo,Erie,Western New York,250,*,10/01/2023
+"Aurubis Buffalo, Inc.",Replacement Power,Buffalo,Erie,Western New York,250,*,10/01/2023
+"Aurubis Buffalo, Inc.",Replacement Power,Buffalo,Erie,Western New York,8060,*,10/01/2023
+"Aurubis Buffalo, Inc.",Replacement Power,Buffalo,Erie,Western New York,3000,*,10/01/2023
+"Aurubis Buffalo, Inc.",Expansion Power,Buffalo,Erie,Western New York,1200,*,10/01/2023
+"Aurubis Buffalo, Inc.",Replacement Power,Buffalo,Erie,Western New York,2800,628,10/01/2023
+BlackRock Niagara LLC,Expansion Power,Getzville,Erie,Western New York,2000,25,10/01/2023
+BlackRock Niagara LLC,Expansion Power,Getzville,Erie,Western New York,200,*,10/01/2023
+"Brunner, Inc.",Replacement Power,Medina,Orleans,Finger Lakes,1200,*,10/01/2023
+"Brunner, Inc.",Replacement Power,Medina,Orleans,Finger Lakes,2500,*,10/01/2023
+"Brunner, Inc.",Expansion Power,Medina,Orleans,Finger Lakes,1500,*,10/01/2023
+"Brunner, Inc.",Expansion Power,Medina,Orleans,Finger Lakes,300,*,10/01/2023
+"Brunner, Inc.",Replacement Power,Medina,Orleans,Finger Lakes,640,310,10/01/2023
+Buffalo Newspress Inc.,Expansion Power,Buffalo,Erie,Western New York,700,*,10/01/2023
+Buffalo Newspress Inc.,Expansion Power,Buffalo,Erie,Western New York,200,68,10/01/2023
+Buffalo Tungsten Incorporated,Replacement Power,Depew,Erie,Western New York,1250,41,10/01/2023
+Buffalo Tungsten Incorporated,Replacement Power,Depew,Erie,Western New York,800,*,10/01/2023
+Cascades Holding US Inc.,Expansion Power,Niagara Falls,Niagara,Western New York,1600,126,10/01/2023
+Cascades Holding US Inc.,Expansion Power,Niagara Falls,Niagara,Western New York,7000,*,10/01/2023
+CCL Label Inc.,Replacement Power,Buffalo,Erie,Western New York,750,*,10/01/2023
+CCL Label Inc.,Replacement Power,Buffalo,Erie,Western New York,250,83,10/01/2023
+CertainTeed Corporation,Expansion Power,Buffalo,Erie,Western New York,2400,86,10/01/2023
+"Chocolate Delivery Systems, Inc.",Replacement Power,Buffalo,Erie,Western New York,4210,189,10/01/2023
+"Citigroup Technology, Inc.",Replacement Power,Getzville,Erie,Western New York,750,480,10/01/2023
+Cliffstar LLC,Expansion Power,Dunkirk,Chautauqua,Western New York,400,428,10/01/2023
+"Coal Ash Recycling, LLC",Expansion Power,Fredonia,Chautauqua,Western New York,2550,20,10/01/2023
+Cobham Mission Systems,Expansion Power,Orchard Park,Erie,Western New York,700,262,10/01/2023
+Cobham Mission Systems,Expansion Power,Orchard Park,Erie,Western New York,200,*,10/01/2023
+"Commitment 2000, Inc.",Replacement Power,Buffalo,Erie,Western New York,410,74,10/01/2023
+"Confer Plastics, Inc.",Replacement Power,North Tonawanda,Niagara,Western New York,300,*,10/01/2023
+"Confer Plastics, Inc.",Expansion Power,North Tonawanda,Niagara,Western New York,400,204,10/01/2023
+"Confer Plastics, Inc.",Replacement Power,North Tonawanda,Niagara,Western New York,1100,*,10/01/2023
+"Confluent Energies, Inc.",Preservation Power,Massena,St. Lawrence,North Country,16000,240,10/01/2023
+Convalt Manufacturing LLC,Preservation Power,Hounsfield,Jefferson,North Country,3400,600,10/01/2023
+Corning Incorporated,Preservation Power,Canton,St. Lawrence,North Country,2100,274,10/01/2023
+Cummins Inc.,Expansion Power,Lakewood,Chautauqua,Western New York,700,"1,417",10/01/2023
+Cummins Inc.,Expansion Power,Lakewood,Chautauqua,Western New York,2010,*,10/01/2023
+"CWT Farms International, Inc.",Preservation Power,Watertown,Jefferson,North Country,320,26,10/01/2023
+"Delaco AMTB, LLC",Replacement Power,Tonawanda,Erie,Western New York,100,7,10/01/2023
+"DKP Buffalo, LLC",Expansion Power,Tonawanda,Erie,Western New York,750,57,10/01/2023
+"Dunkirk Specialty Steel, LLC",Expansion Power,Dunkirk,Chautauqua,Western New York,5250,146,10/01/2023
+"DuPont Specialty Products USA, LLC",Expansion Power,Buffalo,Erie,Western New York,1715,*,10/01/2023
+"DuPont Specialty Products USA, LLC",Replacement Power,Buffalo,Erie,Western New York,480,*,10/01/2023
+"DuPont Specialty Products USA, LLC",Replacement Power,Buffalo,Erie,Western New York,1240,*,10/01/2023
+"DuPont Specialty Products USA, LLC",Replacement Power,Buffalo,Erie,Western New York,640,514,10/01/2023
+Edwards Vacuum LLC,Replacement Power,Alabama,Genesee,Finger Lakes,4900,343,10/01/2023
+"Empire State Mines, LLC",Preservation Power,Gouverneur,St. Lawrence,North Country,2000,108,10/01/2023
+EnerPlate LLC,Replacement Power,Niagara Falls,Niagara,Western New York,16000,160,10/01/2023
+EZ STAK LLC,Preservation Power,Watertown,Jefferson,North Country,670,37,10/01/2023
+"Finger Food Products, LLC.",Expansion Power,Sanborn,Niagara,Western New York,100,29,10/01/2023
+"Finger Food Products, LLC.",Expansion Power,Sanborn,Niagara,Western New York,80,*,10/01/2023
+"Flexo Transparent, LLC",Replacement Power,Buffalo,Erie,Western New York,380,100,10/01/2023
+"Flexo Transparent, LLC",Replacement Power,Buffalo,Erie,Western New York,120,*,10/01/2023
+Ford Motor Company,Expansion Power,Buffalo,Erie,Western New York,990,*,10/01/2023
+Ford Motor Company,Expansion Power,Buffalo,Erie,Western New York,2900,*,10/01/2023
+Ford Motor Company,Expansion Power,Buffalo,Erie,Western New York,4300,*,10/01/2023
+Ford Motor Company,Expansion Power,Buffalo,Erie,Western New York,1500,*,10/01/2023
+Ford Motor Company,Expansion Power,Buffalo,Erie,Western New York,1000,950,10/01/2023
+"Fresenius Kabi USA, LLC",Replacement Power,Grand Island,Erie,Western New York,1000,*,10/01/2023
+"Fresenius Kabi USA, LLC",Replacement Power,Grand Island,Erie,Western New York,1000,*,10/01/2023
+"Fresenius Kabi USA, LLC",Replacement Power,Grand Island,Erie,Western New York,500,*,10/01/2023
+"Fresenius Kabi USA, LLC",Replacement Power,Grand Island,Erie,Western New York,2000,665,10/01/2023
+GEICO,Expansion Power,Getzville,Erie,Western New York,1300,"2,900",10/01/2023
+GEICO,Replacement Power,Getzville,Erie,Western New York,400,*,10/01/2023
+"General Mills Operations, LLC",Expansion Power,Buffalo,Erie,Western New York,1000,*,10/01/2023
+"General Mills Operations, LLC",Replacement Power,Buffalo,Erie,Western New York,1000,*,10/01/2023
+"General Mills Operations, LLC",Replacement Power,Buffalo,Erie,Western New York,3100,400,10/01/2023
+General Motors LLC,Expansion Power,Buffalo,Erie,Western New York,12750,675,10/01/2023
+General Motors LLC,Expansion Power,Buffalo,Erie,Western New York,5000,*,10/01/2023
+General Motors LLC,Expansion Power,Buffalo,Erie,Western New York,1100,*,10/01/2023
+General Motors LLC,Expansion Power,Buffalo,Erie,Western New York,800,*,10/01/2023
+General Motors LLC,Replacement Power,Buffalo,Erie,Western New York,600,*,10/01/2023
+General Motors LLC,Replacement Power,Buffalo,Erie,Western New York,2000,*,10/01/2023
+"Global Abrasive Products, Inc.",Expansion Power,Lockport,Niagara,Western New York,120,30,10/01/2023
+"GM Components Holdings, LLC",Expansion Power,Lockport,Niagara,Western New York,7380,*,10/01/2023
+"GM Components Holdings, LLC",Expansion Power,Lockport,Niagara,Western New York,10570,*,10/01/2023
+"GM Components Holdings, LLC",Replacement Power,Lockport,Niagara,Western New York,3900,"1,449",10/01/2023
+Graphic Controls Acquisition Corp.,Expansion Power,Buffalo,Erie,Western New York,130,*,10/01/2023
+Graphic Controls Acquisition Corp.,Replacement Power,Buffalo,Erie,Western New York,334,*,10/01/2023
+Graphic Controls Acquisition Corp.,Replacement Power,Buffalo,Erie,Western New York,250,*,10/01/2023
+Graphic Controls Acquisition Corp.,Replacement Power,Buffalo,Erie,Western New York,120,318,10/01/2023
+Graphic Controls Acquisition Corp.,Replacement Power,Buffalo,Erie,Western New York,550,*,10/01/2023
+Greatbatch Inc,Expansion Power,Alden,Erie,Western New York,1500,333,10/01/2023
+"Greenpac Mill, LLC",Replacement Power,Niagara Falls,Niagara,Western New York,10000,108,10/01/2023
+"Greenpac Mill, LLC",Replacement Power,Niagara Falls,Niagara,Western New York,12500,*,10/01/2023
+"Habasit America, Inc.",Replacement Power,Buffalo,Erie,Western New York,200,55,10/01/2023
+"Habasit America, Inc.",Replacement Power,Buffalo,Erie,Western New York,440,*,10/01/2023
+Hammond Manufacturing Company Inc.,Replacement Power,Cheektowaga,Erie,Western New York,100,24,10/01/2023
+Honeywell International,Replacement Power,Buffalo,Erie,Western New York,300,132,10/01/2023
+"Hurtubise Tire, Inc.",Replacement Power,North Tonawanda,Niagara,Western New York,100,10,10/01/2023
+"Hurtubise Tire, Inc.",Replacement Power,North Tonawanda,Niagara,Western New York,100,*,10/01/2023
+"Hydro-Air Components, Inc.",Expansion Power,Buffalo,Erie,Western New York,250,100,10/01/2023
+"I Squared R Element Co., Inc.",Replacement Power,Akron,Erie,Western New York,500,*,10/01/2023
+"I Squared R Element Co., Inc.",Replacement Power,Akron,Erie,Western New York,400,79,10/01/2023
+"I Squared R Element Co., Inc.",Replacement Power,Akron,Erie,Western New York,1300,*,10/01/2023
+"Imerys Fused Minerals Niagara Falls, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,400,35,10/01/2023
+"Ingram Micro, Inc.",Expansion Power,Williamsville,Erie,Western New York,130,*,10/01/2023
+"Ingram Micro, Inc.",Expansion Power,Williamsville,Erie,Western New York,900,"1,600",10/01/2023
+Innomotive Solutions Group LLC,Replacement Power,Lancaster,Erie,Western New York,100,21,10/01/2023
+Innomotive Solutions Group LLC,Replacement Power,Lancaster,Erie,Western New York,420,*,10/01/2023
+International Imaging Materials,Expansion Power,Amherst,Erie,Western New York,1000,*,10/01/2023
+International Imaging Materials,Expansion Power,Amherst,Erie,Western New York,1250,*,10/01/2023
+International Imaging Materials,Replacement Power,Amherst,Erie,Western New York,250,*,10/01/2023
+International Imaging Materials,Replacement Power,Amherst,Erie,Western New York,200,*,10/01/2023
+International Imaging Materials,Replacement Power,Amherst,Erie,Western New York,200,358,10/01/2023
+"Kreher's Sunrise Farm, LLC",Replacement Power,Basom,Genesee,Finger Lakes,100,25,10/01/2023
+Lake Mariner Data LLC,Replacement Power,Barker,Niagara,Western New York,10000,165,10/01/2023
+Linde Inc.,Expansion Power,Niagara Falls,Niagara,Western New York,1950,*,10/01/2023
+Linde Inc.,Replacement Power,Niagara Falls,Niagara,Western New York,8750,*,10/01/2023
+Linde Inc.,Replacement Power,Niagara Falls,Niagara,Western New York,35900,*,10/01/2023
+Linde Inc.,Replacement Power,Niagara Falls,Niagara,Western New York,22000,92,10/01/2023
+Linde Inc.,Expansion Power,Tonawanda,Erie,Western New York,1950,*,10/01/2023
+Linde Inc.,Replacement Power,Tonawanda,Erie,Western New York,1950,"1,113",10/01/2023
+Linde Inc.,Replacement Power,Tonawanda,Erie,Western New York,750,*,10/01/2023
+Lockheed Martin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,180,*,10/01/2023
+Lockheed Martin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,200,20,10/01/2023
+"LW1 Operator, LLC",Expansion Power,Buffalo,Erie,Western New York,2930,75,10/01/2023
+M&T Bank,Expansion Power,Amherst,Erie,Western New York,1050,"4,281",10/01/2023
+"Maclean Curtis, LLC",Replacement Power,Buffalo,Erie,Western New York,280,*,10/01/2023
+"Maclean Curtis, LLC",Replacement Power,Buffalo,Erie,Western New York,320,*,10/01/2023
+"Maclean Curtis, LLC",Replacement Power,Buffalo,Erie,Western New York,1000,138,10/01/2023
+"Mahle Behr Troy, Inc.",Replacement Power,Lockport,Erie,Western New York,70,*,10/01/2023
+"Mahle Behr Troy, Inc.",Expansion Power,Lockport,Erie,Western New York,500,*,10/01/2023
+"Mahle Behr Troy, Inc.",Replacement Power,Lockport,Erie,Western New York,1000,154,10/01/2023
+Mayer Bros. Apple Products Inc.,Expansion Power,West Seneca,Erie,Western New York,200,134,10/01/2023
+Mayer Bros. Apple Products Inc.,Replacement Power,Barker,Niagara,Western New York,200,111,10/01/2023
+Messer LLC - Buffalo Facility,Expansion Power,Buffalo,Erie,Western New York,10500,38,10/01/2023
+MOD-PAC Corp.,Expansion Power,Buffalo,Erie,Western New York,400,347,10/01/2023
+MOD-PAC Corp.,Expansion Power,Buffalo,Erie,Western New York,150,*,10/01/2023
+"Moldtech, Inc.",Expansion Power,Lancaster,Erie,Western New York,100,65,10/01/2023
+"Moldtech, Inc.",Expansion Power,Lancaster,Erie,Western New York,100,*,10/01/2023
+"Mono-Systems, Inc.",Expansion Power,Buffalo,Erie,Western New York,180,95,10/01/2023
+Moog Inc.,Replacement Power,East Aurora,Erie,Western New York,4000,"3,224",10/01/2023
+Moog Inc.,Expansion Power,East Aurora,Erie,Western New York,750,*,10/01/2023
+Moog Inc.,Expansion Power,East Aurora,Erie,Western New York,3000,*,10/01/2023
+Moog Inc.,Expansion Power,East Aurora,Erie,Western New York,500,*,10/01/2023
+Moog Inc.,Expansion Power,East Aurora,Erie,Western New York,300,*,10/01/2023
+Moog Inc.,Replacement Power,East Aurora,Erie,Western New York,800,*,10/01/2023
+Moog Inc.,Expansion Power,East Aurora,Erie,Western New York,1690,*,10/01/2023
+Nestle Purina PetCare Company,Expansion Power,Dunkirk,Chautauqua,Western New York,500,*,10/01/2023
+Nestle Purina PetCare Company,Expansion Power,Dunkirk,Chautauqua,Western New York,900,*,10/01/2023
+Nestle Purina PetCare Company,Expansion Power,Dunkirk,Chautauqua,Western New York,2000,*,10/01/2023
+Nestle Purina PetCare Company,Expansion Power,Dunkirk,Chautauqua,Western New York,500,419,10/01/2023
+Nestle Purina PetCare Company,Expansion Power,Dunkirk,Chautauqua,Western New York,1020,*,10/01/2023
+Niacet Corporation,Expansion Power,Niagara Falls,Niagara,Western New York,500,*,10/01/2023
+Niacet Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,500,*,10/01/2023
+Niacet Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,1000,*,10/01/2023
+Niacet Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,400,*,10/01/2023
+Niacet Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,740,*,10/01/2023
+Niacet Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,5110,164,10/01/2023
+"Niagara Coatings Services, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,100,*,10/01/2023
+"Niagara Coatings Services, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,200,28,10/01/2023
+Niagara Falls Water Board,Replacement Power,Niagara Falls,Niagara,Western New York,1600,*,10/01/2023
+Niagara Falls Water Board,Replacement Power,Niagara Falls,Niagara,Western New York,619,*,10/01/2023
+Niagara Falls Water Board,Replacement Power,Niagara Falls,Niagara,Western New York,1425,0,10/01/2023
+Niagara Refining LLC,Expansion Power,Depew,Erie,Western New York,400,54,10/01/2023
+Niagara Refining LLC,Replacement Power,Depew,Erie,Western New York,2500,*,10/01/2023
+"Niagara Sheets, LLC",Replacement Power,North Tonawanda,Niagara,Western New York,400,33,10/01/2023
+"Niagara Specialty Metals, Inc.",Expansion Power,Akron,Erie,Western New York,700,44,10/01/2023
+Nuttall Gear Company,Expansion Power,Niagara Falls,Niagara,Western New York,350,81,10/01/2023
+"Oath Holdings, Inc.",Expansion Power,Lockport,Niagara,Western New York,15000,125,10/01/2023
+"Oath Holdings, Inc.",Expansion Power,Lockport,Niagara,Western New York,6000,116,10/01/2023
+Olin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,2290,*,10/01/2023
+Olin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,15000,*,10/01/2023
+Olin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,21300,*,10/01/2023
+Olin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,40860,*,10/01/2023
+Olin Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,2000,210,10/01/2023
+"PCB Piezotronics, Inc.",Replacement Power,Depew,Erie,Western New York,250,57,10/01/2023
+"PCB Piezotronics, Inc.",Replacement Power,Depew,Erie,Western New York,200,*,10/01/2023
+PeroxyChem LLC,Expansion Power,Tonawanda,Erie,Western New York,1500,*,10/01/2023
+PeroxyChem LLC,Replacement Power,Tonawanda,Erie,Western New York,750,*,10/01/2023
+PeroxyChem LLC,Replacement Power,Tonawanda,Erie,Western New York,5500,*,10/01/2023
+PeroxyChem LLC,Replacement Power,Tonawanda,Erie,Western New York,2500,135,10/01/2023
+Pine Pharmaceuticals LLC,Expansion Power,Tonawanda,Erie,Western New York,400,134,10/01/2023
+Plug Power Inc.,Expansion Power,Alabama,Genesee,Finger Lakes,10000,*,10/01/2023
+Plug Power Inc.,Replacement Power,Alabama,Genesee,Finger Lakes,50000,87,10/01/2023
+"Polymer Conversions, Inc.",Expansion Power,Orchard Park,Erie,Western New York,300,165,10/01/2023
+"Potsdam Specialty Paper, Inc.",Preservation Power,Potsdam,St. Lawrence,North Country,400,89,10/01/2023
+"Precious Plate, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,800,*,10/01/2023
+"Precious Plate, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,400,164,10/01/2023
+"Precious Plate, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,210,*,10/01/2023
+"Premium PPE, LLC",Expansion Power,Amherst,Erie,Western New York,100,27,10/01/2023
+Pride Pak Canada Ltd.,Replacement Power,Medina,Orleans,Finger Lakes,1000,51,10/01/2023
+"Protective Industries, Inc.",Expansion Power,Buffalo,Erie,Western New York,250,224,10/01/2023
+"Protective Industries, Inc.",Expansion Power,Buffalo,Erie,Western New York,1660,*,10/01/2023
+"Pyrotek, Inc.",Replacement Power,Sanborn,Niagara,Western New York,1000,29,10/01/2023
+"Pyrotek, Inc.",Expansion Power,Sanborn,Niagara,Western New York,850,25,10/01/2023
+"Pyrotek, Inc.",Replacement Power,Sanborn,Niagara,Western New York,400,*,10/01/2023
+Republic Steel,Expansion Power,Blasdell,Erie,Western New York,7200,*,10/01/2023
+Republic Steel,Replacement Power,Blasdell,Erie,Western New York,1900,237,10/01/2023
+Republic Steel,Replacement Power,Blasdell,Erie,Western New York,2287,*,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,West Seneca,Erie,Western New York,200,*,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,Cheektowaga,Erie,Western New York,640,*,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,West Seneca,Erie,Western New York,910,*,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,West Seneca,Erie,Western New York,3000,199,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,Cheektowaga,Erie,Western New York,100,*,10/01/2023
+"Rosina Food Products, Inc.",Expansion Power,Cheektowaga,Erie,Western New York,250,141,10/01/2023
+Roth Industries USA,Preservation Power,Watertown,Jefferson,North Country,600,22,10/01/2023
+"RubberForm Recycled Products, LLC",Expansion Power,Lockport,Niagara,Western New York,100,*,10/01/2023
+"RubberForm Recycled Products, LLC",Replacement Power,Lockport,Niagara,Western New York,410,30,10/01/2023
+Saint-Gobain Advanced Ceramics - Boron Nitride,Replacement Power,Amherst,Erie,Western New York,570,*,10/01/2023
+Saint-Gobain Advanced Ceramics - Boron Nitride,Replacement Power,Amherst,Erie,Western New York,2500,56,10/01/2023
+Saint-Gobain Advanced Structural Ceramics,Replacement Power,Niagara Falls,Niagara,Western New York,200,*,10/01/2023
+Saint-Gobain Advanced Structural Ceramics,Replacement Power,Niagara Falls,Niagara,Western New York,2600,*,10/01/2023
+Saint-Gobain Advanced Structural Ceramics,Replacement Power,Niagara Falls,Niagara,Western New York,1000,*,10/01/2023
+Saint-Gobain Advanced Structural Ceramics,Replacement Power,Niagara Falls,Niagara,Western New York,700,114,10/01/2023
+"Saint-Gobain Ceramics & Plastics, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,800,86,10/01/2023
+"Saint-Gobain Ceramics & Plastics, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,2100,*,10/01/2023
+"Saint-Gobain Ceramics & Plastics, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,100,*,10/01/2023
+"Saint-Gobain Ceramics & Plastics, Inc.",Replacement Power,Niagara Falls,Niagara,Western New York,1005,*,10/01/2023
+"Servotronics, Inc.",Expansion Power,Elma,Erie,Western New York,500,155,10/01/2023
+"SGS Recovery, LLC",Expansion Power,Niagara Falls,Niagara,Western New York,750,33,10/01/2023
+"Sonwil Distribution Center, Inc.",Replacement Power,West Seneca,Erie,Western New York,500,19,10/01/2023
+"Sorrento Lactalis, Inc.",Replacement Power,Buffalo,Erie,Western New York,1500,*,10/01/2023
+"Sorrento Lactalis, Inc.",Replacement Power,Buffalo,Erie,Western New York,250,500,10/01/2023
+"Sotek Inc./Belrix Industries, Inc.",Replacement Power,Buffalo,Erie,Western New York,100,71,10/01/2023
+"Sotek Inc./Belrix Industries, Inc.",Replacement Power,Buffalo,Erie,Western New York,410,*,10/01/2023
+Special Metals Corporation,Expansion Power,Dunkirk,Chautauqua,Western New York,950,62,10/01/2023
+Stavatti Aerospace Ltd,Expansion Power,Niagara Falls,Niagara,Western New York,2700,363,10/01/2023
+Steuben Foods Incorporated,Expansion Power,Elma,Erie,Western New York,3000,*,10/01/2023
+Steuben Foods Incorporated,Expansion Power,Elma,Erie,Western New York,5000,576,10/01/2023
+Steuben Foods Incorporated,Expansion Power,Elma,Erie,Western New York,750,*,10/01/2023
+"Stollberg, Inc.",Expansion Power,Niagara Falls,Niagara,Western New York,300,58,10/01/2023
+"Stollberg, Inc.",Expansion Power,Niagara Falls,Niagara,Western New York,500,*,10/01/2023
+Sucro Real Estate NY LLC,Expansion Power,Lackawanna,Erie,Western New York,5000,50,10/01/2023
+"Sumitomo Rubber USA, LLC",Replacement Power,Tonawanda,Erie,Western New York,1500,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Expansion Power,Tonawanda,Erie,Western New York,6000,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Replacement Power,Tonawanda,Erie,Western New York,800,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Replacement Power,Tonawanda,Erie,Western New York,850,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Replacement Power,Tonawanda,Erie,Western New York,4191,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Replacement Power,Tonawanda,Erie,Western New York,250,*,10/01/2023
+"Sumitomo Rubber USA, LLC",Expansion Power,Tonawanda,Erie,Western New York,2000,"1,327",10/01/2023
+Surmet Ceramics Corporation,Expansion Power,Buffalo,Erie,Western New York,640,32,10/01/2023
+"TAM Ceramics Group of NY, LLC",Expansion Power,Niagara Falls,Niagara,Western New York,450,*,10/01/2023
+"TAM Ceramics Group of NY, LLC",Replacement Power,Niagara Falls,Niagara,Western New York,5650,71,10/01/2023
+"TAM Ceramics Group of NY, LLC",Replacement Power,Niagara Falls,Niagara,Western New York,600,*,10/01/2023
+Thermo Fisher Scientific Inc.,Replacement Power,Grand Island,Erie,Western New York,400,*,10/01/2023
+Thermo Fisher Scientific Inc.,Replacement Power,Grand Island,Erie,Western New York,375,*,10/01/2023
+Thermo Fisher Scientific Inc.,Expansion Power,Grand Island,Erie,Western New York,3600,"1,203",10/01/2023
+Thermo Fisher Scientific Inc.,Replacement Power,Grand Island,Erie,Western New York,2270,*,10/01/2023
+Thinking Robot Studios Inc.,Replacement Power,Buffalo,Erie,Western New York,2000,88,10/01/2023
+"Time Release Sciences, Inc.",Replacement Power,Lackawanna,Erie,Western New York,250,*,10/01/2023
+"Time Release Sciences, Inc.",Replacement Power,Lackawanna,Erie,Western New York,200,*,10/01/2023
+"Time Release Sciences, Inc.",Replacement Power,Lackawanna,Erie,Western New York,250,*,10/01/2023
+"Time Release Sciences, Inc.",Replacement Power,Lackawanna,Erie,Western New York,200,108,10/01/2023
+"Time Release Sciences, Inc.",Replacement Power,Lackawanna,Erie,Western New York,180,*,10/01/2023
+"Tops Market, LLC",Expansion Power,Lancaster,Erie,Western New York,550,560,10/01/2023
+"Tops Market, LLC",Expansion Power,Lancaster,Erie,Western New York,700,*,10/01/2023
+"Tops Markets, LLC",Replacement Power,West Seneca,Erie,Western New York,200,*,10/01/2023
+"Tops Markets, LLC",Replacement Power,West Seneca,Erie,Western New York,600,62,10/01/2023
+"Trek, Inc.",Expansion Power,Lockport,Niagara,Western New York,350,152,10/01/2023
+Trinity Packaging Corporation,Replacement Power,Cheektowaga,Erie,Western New York,200,150,10/01/2023
+"Try-It Distributing Co., Inc.",Expansion Power,Lancaster,Erie,Western New York,200,265,10/01/2023
+"Try-It Distributing Co., Inc.",Expansion Power,Lancaster,Erie,Western New York,350,*,10/01/2023
+Tulip Molded Plastics Corporation,Expansion Power,Niagara Falls,Niagara,Western New York,300,*,10/01/2023
+Tulip Molded Plastics Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,1200,70,10/01/2023
+Tulip Molded Plastics Corporation,Replacement Power,Niagara Falls,Niagara,Western New York,290,*,10/01/2023
+Unifrax I LLC,Replacement Power,Tonawanda,Erie,Western New York,1400,*,10/01/2023
+Unifrax I LLC,Replacement Power,Tonawanda,Erie,Western New York,1000,*,10/01/2023
+Unifrax I LLC,Replacement Power,Tonawanda,Erie,Western New York,900,*,10/01/2023
+Unifrax I LLC,Replacement Power,Tonawanda,Erie,Western New York,1000,55,10/01/2023
+Unifrax I LLC - Sanborn,Replacement Power,Sanborn,Niagara,Western New York,1000,95,10/01/2023
+Unifrax I LLC - Tonawanda,Replacement Power,Tonawanda,Erie,Western New York,1000,*,10/01/2023
+Unifrax I LLC - Tonawanda,Replacement Power,Tonawanda,Erie,Western New York,2600,*,10/01/2023
+Unifrax I LLC - Tonawanda,Replacement Power,Tonawanda,Erie,Western New York,1355,*,10/01/2023
+Unifrax I LLC - Tonawanda,Replacement Power,Tonawanda,Erie,Western New York,1900,301,10/01/2023
+"Upstate Niagara Cooperative, Inc.",Expansion Power,West Seneca,Erie,Western New York,1000,144,10/01/2023
+"Upstate Niagara Cooperative, Inc.",Expansion Power,West Seneca,Erie,Western New York,600,*,10/01/2023
+"Upstate Niagara Cooperative, Inc.",Preservation Power,North Lawrence,St. Lawrence,North Country,850,97,10/01/2023
+"Upstate Niagara Cooperative, Inc.",Preservation Power,North Lawrence,St. Lawrence,North Country,1850,*,10/01/2023
+"Upstate Niagara Cooperative, Inc.",Preservation Power,North Lawrence,St. Lawrence,North Country,350,*,10/01/2023
+Washington Mills Electro Minerals Corp,Replacement Power,Niagara Falls,Niagara,Western New York,5250,53,10/01/2023
+"Washington Mills Tonawanda, Inc.",Replacement Power,Tonawanda,Erie,Western New York,250,29,10/01/2023
+"Welded Tube USA, Inc.",Expansion Power,Lackawanna,Erie,Western New York,250,*,10/01/2023
+"Welded Tube USA, Inc.",Expansion Power,Lackawanna,Erie,Western New York,2870,89,10/01/2023
+"Wells Enterprises, Inc.",Expansion Power,Dunkirk,Chautauqua,Western New York,2000,*,10/01/2023
+"Wells Enterprises, Inc.",Expansion Power,Dunkirk,Chautauqua,Western New York,2000,546,10/01/2023
+"Wells Enterprises, Inc.",Expansion Power,Dunkirk,Chautauqua,Western New York,1000,*,10/01/2023
+"Western New York Energy, LLC",Replacement Power,Medina,Orleans,Finger Lakes,5000,*,10/01/2023
+"Western New York Energy, LLC",Replacement Power,Medina,Orleans,Finger Lakes,330,*,10/01/2023
+"Western New York Energy, LLC",Expansion Power,Medina,Orleans,Finger Lakes,700,57,10/01/2023
+"WestRock CP, LLC",Expansion Power,North Tonawanda,Niagara,Western New York,300,128,10/01/2023
+"WestRock CP, LLC",Expansion Power,North Tonawanda,Niagara,Western New York,900,*,10/01/2023
+Worksport USA Operations Corporation,Replacement Power,West Seneca,Erie,Western New York,430,20,10/01/2023
